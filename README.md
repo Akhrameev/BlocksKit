@@ -1,5 +1,9 @@
-[BlocksKit](http://zwaldowski.github.com/BlocksKit)
-===================================================
+### This repository is *deprecated* and is a mirror of BlocksKit 1.5.2. Please update your URLs to point to [pandamonia/BlocksKit](https://github.com/pandamonia/BlocksKit).
+
+------------
+
+## [BlocksKit](http://zwaldowski.github.com/BlocksKit)
+
 
 Blocks in C and Objective-C are downright magical.  They make coding easier and potentially quicker, not to mention faster on the front end with multithreading and Grand Central Dispatch.  BlocksKit hopes to facilitate this kind of programming by removing some of the annoying - and, in some cases, impeding - limits on coding with blocks.
 
